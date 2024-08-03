@@ -1379,18 +1379,18 @@
 					}
 				},
 				"Energy": {
-					"Current": 72,
+					"Current": 100,
 					"Maximum": 100
 				},
 				"Hydration": {
-					"Current": 90,
+					"Current": 100,
 					"Maximum": 100
 				},
 				"Temperature": {
 					"Current": 37,
 					"Maximum": 40
 				},
-				"UpdateTime": 1722677004
+				"UpdateTime": 1722697668
 			},
 			"Hideout": {
 				"Areas": [
@@ -1872,7 +1872,7 @@
 				"Improvement": {},
 				"Production": {},
 				"Seed": 1973886494,
-				"sptUpdateLastRunTimestamp": 1722677019
+				"sptUpdateLastRunTimestamp": 1722697689
 			},
 			"Info": {
 				"AccountType": 0,
@@ -15264,16 +15264,6 @@
 					"availableAfter": 0
 				},
 				{
-					"qid": "66a50688a6ea780c44000001",
-					"startTime": 1722091219,
-					"status": 2,
-					"statusTimers": {
-						"2": 1722091219
-					},
-					"completedConditions": [],
-					"availableAfter": 0
-				},
-				{
 					"qid": "5ae448a386f7744d3730fff0",
 					"startTime": 1722091223,
 					"status": 2,
@@ -15497,7 +15487,7 @@
 				"offers": [
 					{
 						"_id": "d180ebd6d738ee90b15e2ee6",
-						"intId": 1715,
+						"intId": 2775,
 						"user": {
 							"id": "669d81d60004d112fe83bed0",
 							"memberType": 2,
@@ -20352,6 +20342,142 @@
 					"name": "Weekly",
 					"activeQuests": [
 						{
+							"_id": "66ae47a0436bcc9366000001",
+							"traderId": "5ac3b934156ae10c4430e83c",
+							"location": "any",
+							"image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
+							"type": "Completion",
+							"isKey": false,
+							"restartable": false,
+							"instantComplete": false,
+							"secretQuest": false,
+							"canShowNotificationsInGame": true,
+							"rewards": {
+								"Started": [],
+								"Success": [
+									{
+										"value": 29248,
+										"type": "Experience",
+										"index": 0
+									},
+									{
+										"target": "66ae47a0b7ad9ea57b000001",
+										"value": 82169,
+										"type": "Item",
+										"index": 1,
+										"items": [
+											{
+												"_id": "66ae47a0b7ad9ea57b000001",
+												"_tpl": "5449016a4bdc2d6f028b456f",
+												"upd": {
+													"StackObjectsCount": 82169,
+													"SpawnedInSession": true
+												}
+											}
+										]
+									},
+									{
+										"target": "66ae47a0b7ad9ea57b000002",
+										"value": 21,
+										"type": "Item",
+										"index": 2,
+										"items": [
+											{
+												"_id": "66ae47a0b7ad9ea57b000002",
+												"_tpl": "5d235b4d86f7742e017bc88a",
+												"upd": {
+													"StackObjectsCount": 21,
+													"SpawnedInSession": true
+												}
+											}
+										]
+									},
+									{
+										"target": "66ae47a0b7ad9ea57b000003",
+										"value": 1,
+										"type": "Item",
+										"index": 3,
+										"items": [
+											{
+												"_id": "66ae47a0b7ad9ea57b000003",
+												"_tpl": "65719f0775149d62ce0a670b",
+												"upd": {
+													"StackObjectsCount": 1,
+													"SpawnedInSession": true
+												}
+											}
+										]
+									},
+									{
+										"target": "5ac3b934156ae10c4430e83c",
+										"value": 0.02,
+										"type": "TraderStanding",
+										"index": 4
+									}
+								],
+								"Fail": []
+							},
+							"conditions": {
+								"AvailableForStart": [],
+								"AvailableForFinish": [
+									{
+										"id": "66ae47a0436bcc9366000002",
+										"parentId": "",
+										"dynamicLocale": true,
+										"index": 0,
+										"visibilityConditions": [],
+										"target": [
+											"5672cb724bdc2dc2088b456b"
+										],
+										"value": 4,
+										"minDurability": 0,
+										"maxDurability": 100,
+										"dogtagLevel": 0,
+										"onlyFoundInRaid": true,
+										"conditionType": "HandoverItem"
+									},
+									{
+										"id": "66ae47a0436bcc9366000003",
+										"parentId": "",
+										"dynamicLocale": true,
+										"index": 0,
+										"visibilityConditions": [],
+										"target": [
+											"5d1b392c86f77425243e98fe"
+										],
+										"value": 4,
+										"minDurability": 0,
+										"maxDurability": 100,
+										"dogtagLevel": 0,
+										"onlyFoundInRaid": true,
+										"conditionType": "HandoverItem"
+									}
+								],
+								"Fail": []
+							},
+							"side": "Pmc",
+							"name": "61604635c725987e815b1a46 name 5ac3b934156ae10c4430e83c",
+							"note": "61604635c725987e815b1a46 note 5ac3b934156ae10c4430e83c",
+							"description": "61604635c725987e815b1a46 description 5ac3b934156ae10c4430e83c 0",
+							"successMessageText": "61604635c725987e815b1a46 successMessageText 5ac3b934156ae10c4430e83c 0",
+							"failMessageText": "61604635c725987e815b1a46 failMessageText 5ac3b934156ae10c4430e83c 0",
+							"startedMessageText": "61604635c725987e815b1a46 startedMessageText 5ac3b934156ae10c4430e83c 0",
+							"changeQuestMessageText": "61604635c725987e815b1a46 changeQuestMessageText 5ac3b934156ae10c4430e83c 0",
+							"acceptPlayerMessage": "61604635c725987e815b1a46 acceptPlayerMessage 5ac3b934156ae10c4430e83c",
+							"declinePlayerMessage": "61604635c725987e815b1a46 declinePlayerMessage 5ac3b934156ae10c4430e83c",
+							"completePlayerMessage": "61604635c725987e815b1a46 completePlayerMessage 5ac3b934156ae10c4430e83c",
+							"templateId": "61604635c725987e815b1a46",
+							"changeCost": [
+								{
+									"templateId": "5449016a4bdc2d6f028b456f",
+									"count": 5000
+								}
+							],
+							"changeStandingCost": 0
+						}
+					],
+					"inactiveQuests": [
+						{
 							"_id": "66a50688a6ea780c44000001",
 							"traderId": "58330581ace78e27b8b10cee",
 							"location": "5714dc692459777137212e12",
@@ -20492,8 +20618,7 @@
 							"sptRepatableGroupName": "Weekly"
 						}
 					],
-					"inactiveQuests": [],
-					"endTime": 1722695944,
+					"endTime": 1723302432,
 					"changeRequirement": {
 						"66a50688a6ea780c44000001": {
 							"changeCost": [
@@ -20503,6 +20628,15 @@
 								}
 							],
 							"changeStandingCost": 0
+						},
+						"66ae47a0436bcc9366000001": {
+							"changeCost": [
+								{
+									"templateId": "5449016a4bdc2d6f028b456f",
+									"count": 5000
+								}
+							],
+							"changeStandingCost": 0.01
 						}
 					},
 					"freeChanges": 0,
@@ -22695,8 +22829,8 @@
 					"dt": 1722675779,
 					"text": "",
 					"templateId": "5979f9ba86f7740f6c3fe9f2 successMessageText",
-					"hasRewards": true,
-					"rewardCollected": false,
+					"hasRewards": false,
+					"rewardCollected": true,
 					"items": {
 						"stash": "f49a091a4743c14b2a232aaa",
 						"data": []
@@ -24506,10 +24640,7 @@
 					"text": "당신이 등록한 Augmentin 아목시실린 항생제  아이템 1 개를 TonioX 님이 구입했습니다.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "8bf9b102fe4a984f3fbad975",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -24520,10 +24651,7 @@
 					"text": "당신이 등록한 Ops-Core FAST 바이저 아이템 1 개를 GGaulin 님이 구입했습니다.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "fd49cef32fb4396ca141652b",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -24534,10 +24662,7 @@
 					"text": "당신이 등록한 7.62x39mm FMJ 아이템 23 개를 Styrr 님이 구입했습니다.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "86c7b6499ba9932afbe4fffe",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -24548,10 +24673,7 @@
 					"text": "당신이 등록한 7.62x39mm FMJ 아이템 29 개를 Choccy 님이 구입했습니다.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "b516d108a9e2f3a3b96e5556",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -24562,10 +24684,7 @@
 					"text": "당신이 등록한 7.62x39mm FMJ 아이템 22 개를 riku8405 님이 구입했습니다.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "b151c181951aa362b3d93535",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -24576,10 +24695,7 @@
 					"text": "당신이 등록한 7.62x39mm FMJ 아이템 6 개를 TimmyGG 님이 구입했습니다.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "962bae7cd2ee35b34d732a0c",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -24590,10 +24706,7 @@
 					"text": "당신이 등록한 7.62x39mm FMJ 아이템 16 개를 hacker228 님이 구입했습니다.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "75a3e9145d2d2c6b839b7f5b",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -24604,10 +24717,7 @@
 					"text": "당신이 등록한 7.62x39mm FMJ 아이템 3 개를 Crow 님이 구입했습니다.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "a67f160fac03b7fc011e8ba7",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -24618,10 +24728,7 @@
 					"text": "당신이 등록한 WASR-10/63 CAF 목제 수직손잡이  아이템 1 개를 Massivesoft 님이 구입했습니다.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "3fffe1f4e210e434dd925a4a",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -24632,10 +24739,7 @@
 					"text": "당신이 등록한 7.62x39mm FMJ 아이템 1 개를 notGreg 님이 구입했습니다.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "fe0488101bdeb71dce66aa38",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -24646,10 +24750,7 @@
 					"text": "당신이 등록한 TT-33 7.62x25 TT 권총  아이템 1 개를 Kiki 님이 구입했습니다.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "d58fde9cecb7e1e4e7882c77",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -26380,6 +26481,12 @@
 				"dateAdded": 1722524212099,
 				"name": "uifixes",
 				"version": "2.3.4"
+			},
+			{
+				"author": "Platinum",
+				"dateAdded": 1722697616993,
+				"name": "The Blacklist",
+				"version": "2.0.1"
 			}
 		],
 		"freeRepeatableRefreshUsedCount": {
@@ -26535,27 +26642,9 @@
 		}
 	],
 	"traderPurchases": {
-		"54cb50c76803fa8b248b4571": {
-			"666aa31ce8e00edadd0d1f1a": {
-				"count": 450,
-				"purchaseTimestamp": 1722672144
-			},
-			"666aa31be8e00edadd0d1ed6": {
-				"count": 3,
-				"purchaseTimestamp": 1722672246
-			}
-		},
+		"54cb50c76803fa8b248b4571": {},
 		"5935c25fb3acc3127c3d8cd9": {},
-		"5c0647fdd443bc2504c2d371": {
-			"666aa2eae8e00edadd0d0839": {
-				"count": 1,
-				"purchaseTimestamp": 1722675264
-			},
-			"666aa2efe8e00edadd0d0ab3": {
-				"count": 1,
-				"purchaseTimestamp": 1722675690
-			}
-		},
+		"5c0647fdd443bc2504c2d371": {},
 		"58330581ace78e27b8b10cee": {},
 		"5a7c2eca46aef81a7ca2145d": {},
 		"6617beeaa9cfa777ca915b7c": {},
