@@ -5909,30 +5909,7 @@
 					"text": "You have received a gift from JJJJAMS",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "664113fa049fd2369707c4eb",
-						"data": [
-							{
-								"_id": "0e8527421efabaf64678e342",
-								"_tpl": "5c94bbff86f7747ee735c08f",
-								"upd": {
-									"StackObjectsCount": 1,
-									"Key": {
-										"NumberOfUsages": 0
-									},
-									"SpawnedInSession": false
-								},
-								"parentId": "664113fa049fd2369707c4eb",
-								"slotId": "main",
-								"location": {
-									"x": 1,
-									"y": 1,
-									"r": 0,
-									"rotation": false
-								}
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				}
 			],
