@@ -20259,119 +20259,13 @@
 	},
 	"insurance": [],
 	"traderPurchases": {
-		"54cb50c76803fa8b248b4571": {
-			"666aa31ee8e00edadd0d2077": {
-				"count": 1,
-				"purchaseTimestamp": 1722703022
-			},
-			"666aa31fe8e00edadd0d2138": {
-				"count": 220,
-				"purchaseTimestamp": 1722703091
-			},
-			"666aa322e8e00edadd0d22c1": {
-				"count": 2,
-				"purchaseTimestamp": 1722703160
-			},
-			"666aa320e8e00edadd0d21ab": {
-				"count": 100,
-				"purchaseTimestamp": 1722703191
-			},
-			"666aa31de8e00edadd0d202b": {
-				"count": 2,
-				"purchaseTimestamp": 1722707866
-			},
-			"666aa31de8e00edadd0d2039": {
-				"count": 2,
-				"purchaseTimestamp": 1722707883
-			},
-			"666aa321e8e00edadd0d225c": {
-				"count": 150,
-				"purchaseTimestamp": 1722706216
-			}
-		},
-		"5935c25fb3acc3127c3d8cd9": {
-			"666aa306e8e00edadd0d151f": {
-				"count": 4,
-				"purchaseTimestamp": 1722707983
-			},
-			"666aa307e8e00edadd0d157d": {
-				"count": 2,
-				"purchaseTimestamp": 1722707983
-			},
-			"666aa305e8e00edadd0d14df": {
-				"count": 2,
-				"purchaseTimestamp": 1722707983
-			},
-			"666aa30fe8e00edadd0d1952": {
-				"count": 2,
-				"purchaseTimestamp": 1722707983
-			},
-			"666aa306e8e00edadd0d14fa": {
-				"count": 2,
-				"purchaseTimestamp": 1722707983
-			}
-		},
-		"5c0647fdd443bc2504c2d371": {
-			"666aa2ece8e00edadd0d0914": {
-				"count": 2,
-				"purchaseTimestamp": 1722707884
-			},
-			"666aa2e8e8e00edadd0d0756": {
-				"count": 2,
-				"purchaseTimestamp": 1722707884
-			},
-			"666aa2eae8e00edadd0d083f": {
-				"count": 2,
-				"purchaseTimestamp": 1722707983
-			},
-			"666aa2f0e8e00edadd0d0b3d": {
-				"count": 2,
-				"purchaseTimestamp": 1722707983
-			},
-			"666aa2eee8e00edadd0d0a52": {
-				"count": 4,
-				"purchaseTimestamp": 1722706574
-			}
-		},
-		"58330581ace78e27b8b10cee": {
-			"666aa2e6e8e00edadd0d06bd": {
-				"count": 2,
-				"purchaseTimestamp": 1722707983
-			}
-		},
-		"5a7c2eca46aef81a7ca2145d": {
-			"666aa2f6e8e00edadd0d0e08": {
-				"count": 1,
-				"purchaseTimestamp": 1722704325
-			},
-			"666aa2f4e8e00edadd0d0cb8": {
-				"count": 1,
-				"purchaseTimestamp": 1722704325
-			},
-			"666aa2fbe8e00edadd0d1053": {
-				"count": 3,
-				"purchaseTimestamp": 1722707983
-			},
-			"666aa301e8e00edadd0d1314": {
-				"count": 2,
-				"purchaseTimestamp": 1722707983
-			},
-			"666aa2fce8e00edadd0d10d6": {
-				"count": 2,
-				"purchaseTimestamp": 1722707983
-			}
-		},
+		"54cb50c76803fa8b248b4571": {},
+		"5935c25fb3acc3127c3d8cd9": {},
+		"5c0647fdd443bc2504c2d371": {},
+		"58330581ace78e27b8b10cee": {},
+		"5a7c2eca46aef81a7ca2145d": {},
 		"6617beeaa9cfa777ca915b7c": {},
-		"5ac3b934156ae10c4430e83c": {
-			"666aa2dae8e00edadd0d019d": {
-				"count": 2,
-				"purchaseTimestamp": 1722703022
-			},
-			"666aa2d6e8e00edadd0cff33": {
-				"count": 1,
-				"purchaseTimestamp": 1722705240
-			}
-		},
+		"5ac3b934156ae10c4430e83c": {},
 		"54cb57776803fa99248b456e": {}
 	},
 	"achievements": {},
