@@ -20863,73 +20863,13 @@
 	"insurance": [],
 	"traderPurchases": {
 		"54cb50c76803fa8b248b4571": {},
-		"5935c25fb3acc3127c3d8cd9": {
-			"666aa307e8e00edadd0d1556": {
-				"count": 1,
-				"purchaseTimestamp": 1723043419
-			},
-			"666aa308e8e00edadd0d15cd": {
-				"count": 1,
-				"purchaseTimestamp": 1723043419
-			},
-			"666aa314e8e00edadd0d1bbb": {
-				"count": 1,
-				"purchaseTimestamp": 1723043419
-			},
-			"666aa30de8e00edadd0d1830": {
-				"count": 1,
-				"purchaseTimestamp": 1723043419
-			},
-			"666aa30fe8e00edadd0d1952": {
-				"count": 1,
-				"purchaseTimestamp": 1723043419
-			}
-		},
+		"5935c25fb3acc3127c3d8cd9": {},
 		"5c0647fdd443bc2504c2d371": {},
-		"58330581ace78e27b8b10cee": {
-			"666aa2dee8e00edadd0d0352": {
-				"count": 1,
-				"purchaseTimestamp": 1723043280
-			},
-			"666aa2dde8e00edadd0d02b1": {
-				"count": 1,
-				"purchaseTimestamp": 1723043302
-			},
-			"666aa2e5e8e00edadd0d0679": {
-				"count": 1,
-				"purchaseTimestamp": 1723043302
-			},
-			"666aa2e0e8e00edadd0d041d": {
-				"count": 1,
-				"purchaseTimestamp": 1723043302
-			},
-			"666aa2e2e8e00edadd0d0512": {
-				"count": 1,
-				"purchaseTimestamp": 1723043419
-			},
-			"666aa2e6e8e00edadd0d06a5": {
-				"count": 1,
-				"purchaseTimestamp": 1723043419
-			},
-			"666aa2dee8e00edadd0d0346": {
-				"count": 1,
-				"purchaseTimestamp": 1723043419
-			}
-		},
+		"58330581ace78e27b8b10cee": {},
 		"5a7c2eca46aef81a7ca2145d": {},
 		"6617beeaa9cfa777ca915b7c": {},
-		"5ac3b934156ae10c4430e83c": {
-			"666aa2dae8e00edadd0d019d": {
-				"count": 4,
-				"purchaseTimestamp": 1723043213
-			}
-		},
-		"54cb57776803fa99248b456e": {
-			"666aa327e8e00edadd0d24be": {
-				"count": 4,
-				"purchaseTimestamp": 1723039390
-			}
-		}
+		"5ac3b934156ae10c4430e83c": {},
+		"54cb57776803fa99248b456e": {}
 	},
 	"achievements": {},
 	"userbuilds": {
